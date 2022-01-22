@@ -3,10 +3,14 @@
 
 [反转字符串II题目链接](https://leetcode-cn.com/problems/reverse-string-ii/)
 ## 思路图
-![image](https://github.com/sumo123456789/DataStructureAndAlgorithm/blob/main/%E9%93%BE%E8%A1%A8/image/ListImage.png)
+![image](https://github.com/sumo123456789/DataStructureAndAlgorithm/blob/main/4.%E5%AD%97%E7%AC%A6%E4%B8%B2/image/string1.png)
+![image](https://github.com/sumo123456789/DataStructureAndAlgorithm/blob/main/4.%E5%AD%97%E7%AC%A6%E4%B8%B2/image/string2.png)
 ## 总结：
 ```
-
+    反转字符串一道热身题，就不多叙述，
+反转字符串II则是一道中规中矩的题，值得
+注意的点在 reverse 函数本身是左闭右开
+的，这要求打代码时很要清楚指针的指向。
 
 ```
 ## 我的题解：
