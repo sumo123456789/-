@@ -1,7 +1,5 @@
 # 题目
-[力扣题目链接](https://leetcode-cn.com/problems/reverse-linked-list/)
-## 思路图
-![image](https://github.com/sumo123456789/DataStructureAndAlgorithm/blob/main/%E9%93%BE%E8%A1%A8/image/ListImage.png)
+[力扣题目链接](https://leetcode-cn.com/problems/permutations-ii/)
 ## 总结：
 ```
     该题相对于 46. 全排列 而言，多了个树层查重的步骤。
